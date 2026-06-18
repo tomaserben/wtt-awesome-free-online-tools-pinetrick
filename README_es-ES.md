@@ -41,6 +41,7 @@ Una lista curada de herramientas en línea gratuitas para desarrolladores, dise�
 | **Formateador SQL** | Formatee, indente y embellezca consultas SQL con resaltado de sintaxis. Compatible con MySQL y PostgreSQL. | [sql.aitinytools.com](https://sql.aitinytools.com) |
 | **Probador de Regex** | Pruebe expresiones regulares con resaltado en vivo, grupos de captura y modo de reemplazo. Compatible con flags g, i, m, s. | [regex.aitinytools.com](https://regex.aitinytools.com) |
 | **Calculadora chmod** | Convierte entre permisos simbólicos (rwxr-xr-x) y numéricos (755) de archivos Linux/Unix con casillas interactivas. | [chmod.aitinytools.com](https://chmod.aitinytools.com) |
+| **Roblox GUI Maker** | Herramienta de IA gratuita para planificar interfaces ScreenGui, HUDs, menús e ideas de código Lua para Roblox Studio. | [robloxguimaker.dev](https://robloxguimaker.dev/) |
 
 ## Conversores de Datos y Formato
 

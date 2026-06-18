@@ -41,6 +41,7 @@
 | **SQL格式化** | 格式化、缩进和美化SQL查询，支持语法高亮，兼容MySQL、PostgreSQL和标准SQL。 | [sql.aitinytools.com](https://sql.aitinytools.com) |
 | **正则表达式测试** | 实时高亮显示匹配结果，支持捕获组查看和替换模式，支持 g、i、m、s 标志。 | [regex.aitinytools.com](https://regex.aitinytools.com) |
 | **chmod权限计算器** | 轻松转换符号格式（rwxr-xr-x）与数字格式（755）的Linux/Unix文件权限，交互式复选框实时预览。 | [chmod.aitinytools.com](https://chmod.aitinytools.com) |
+| **Roblox GUI Maker** | 免费 AI 工具，用于规划 Roblox Studio ScreenGui 布局、HUD、菜单和 Lua 入门代码思路。 | [robloxguimaker.dev](https://robloxguimaker.dev/) |
 
 ## 数据与格式转换
 

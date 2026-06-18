@@ -41,6 +41,7 @@
 | **SQL फॉर्मेटर** | SQL क्वेरी को फॉर्मेट, इंडेंट और सुंदर बनाएं। सिंटैक्स हाइलाइटिंग के साथ MySQL और PostgreSQL का समर्थन। | [sql.aitinytools.com](https://sql.aitinytools.com) |
 | **Regex परीक्षक** | लाइव मिलान हाइलाइटिंग, कैप्चर ग्रुप और रिप्लेस मोड के साथ रेगुलर एक्सप्रेशन टेस्ट करें। g, i, m, s फ्लैग समर्थित। | [regex.aitinytools.com](https://regex.aitinytools.com) |
 | **chmod कैलकुलेटर** | प्रतीकात्मक (rwxr-xr-x) और संख्यात्मक (755) Linux/Unix फ़ाइल अनुमतियों के बीच इंटरैक्टिव चेकबॉक्स से बदलें। | [chmod.aitinytools.com](https://chmod.aitinytools.com) |
+| **Roblox GUI Maker** | Roblox Studio के ScreenGui लेआउट, HUD, मेन्यू और Lua starter code ideas की योजना बनाने के लिए मुफ्त AI टूल। | [robloxguimaker.dev](https://robloxguimaker.dev/) |
 
 ## डेटा और फॉर्मेट कनवर्टर
 

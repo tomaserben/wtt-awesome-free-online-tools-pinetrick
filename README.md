@@ -41,6 +41,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | **SQL Formatter** | Format, indent, and beautify SQL queries with syntax highlighting. Supports MySQL, PostgreSQL, and standard SQL. | [sql.aitinytools.com](https://sql.aitinytools.com) |
 | **Regex Tester** | Test regular expressions with live match highlighting, capture groups, and replace mode. Supports g, i, m, s flags. | [regex.aitinytools.com](https://regex.aitinytools.com) |
 | **chmod Calculator** | Convert between symbolic (rwxr-xr-x) and numeric (755) Linux/Unix file permissions with interactive checkboxes. | [chmod.aitinytools.com](https://chmod.aitinytools.com) |
+| **Roblox GUI Maker** | Free AI tool for planning Roblox Studio ScreenGui layouts, HUDs, menus, and Lua starter code ideas. | [robloxguimaker.dev](https://robloxguimaker.dev/) |
 
 ## Data & Format Converters
 

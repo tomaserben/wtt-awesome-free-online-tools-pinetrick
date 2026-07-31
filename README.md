@@ -57,6 +57,7 @@ A curated list of awesome free online tools for developers, designers, and every
 | Tool | Description | Link |
 |------|-------------|------|
 | **Text Diff** | Compare two texts online with line-by-line differences highlighted side by side or in unified view. | [diff.aitinytools.com](https://diff.aitinytools.com) |
+| **Website to Text** | Convert a public webpage URL into readable plain text or Markdown. | [websitetotext.com](https://websitetotext.com/) |
 
 ## Network & Hardware
 

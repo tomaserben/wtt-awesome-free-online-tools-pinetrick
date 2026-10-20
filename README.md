@@ -72,6 +72,7 @@ A curated list of awesome free online tools for developers, designers, and every
 |------|-------------|------|
 | **Image Compressor** | Compress JPEG, PNG, WebP images in browser — no upload, 100% private. Adjust quality, resize and download. | [imgcompress.aitinytools.com](https://imgcompress.aitinytools.com) |
 | **QR Code Generator** | Convert any text or URL into a QR code instantly. Customize size, error correction level and colors. | [qrcode.aitinytools.com](https://qrcode.aitinytools.com/) |
+| **Background Remover** | Strip the background from photos, portraits and logos in your browser and download a transparent PNG. Files never leave your device, no signup needed. | [tomaserben.com](https://tomaserben.com/free-tools/image-background-remover) |
 
 ## Utilities
 
